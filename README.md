@@ -46,7 +46,7 @@ The dataset folders for surfaces should be organized as follows:
 We provide an [example dataset](https://www.kaggle.com/datasets/delinan/two-swirl) featuring two partial swirl stream surfaces for testing our method.
 
 
-##Contact
+## Contact
 Should you have any questions, please contact me at dan3@nd.edu.
 
 
