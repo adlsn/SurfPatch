@@ -43,6 +43,10 @@ The dataset folders for surfaces should be organized as follows:
 └── project2d/
     └── level1/
 ```
+We provide an example dataset featuring two partial swirl stream surfaces for testing our method.
+
+##Contact
+Should you have any questions, please contact me at dan3@nd.edu.
 
 
 
