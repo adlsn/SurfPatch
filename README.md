@@ -14,7 +14,7 @@ University of Notre Dame<sup>1</sup>
 ## Architecture overview of SurfPatch
 > SurfPatch is for analyzing stream surfaces generated from vector field data through a three-stage process: (1) classifying vertices based on Heat Kernel Signature (HKS) features and partitioning the surface into fine-grained patches using Agglomerative Hierarchical Clustering (AHC) with connectivity constraints, (2) matching similar patches within or across surfaces by aggregating vertex-level features into patch-level features, and (3) clustering surfaces by further aggregating patch-level features into surface-level features, enabling efficient querying and exploration of patches and surfaces.
 <div align='center'>
-<img src='framework.pdf'>
+<img src='framework.png'>
 </div>
 ---
 
