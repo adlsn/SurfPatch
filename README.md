@@ -7,7 +7,7 @@ University of Notre Dame<sup>1</sup>
 This is the official repository for the paper `SurfPatch: Enabling Patch Matching for Exploratory Stream Surface Visualization.`
 
 <div align='center'>
-<img src='video.gif'>
+<img src='video.gif' style="width: 500px; height: auto;">
 </div>
 
 ## Introduction
