@@ -1,5 +1,4 @@
-# SurfPatch
-SurfPatch: Enabling Patch Matching for Exploratory Stream Surface Visualization
+# SurfPatch: Enabling Patch Matching for Exploratory Stream Surface Visualization
 ---
 [Delin An](https://github.com/adlsn)<sup>1</sup>, [Chaoli Wang](https://sites.nd.edu/chaoli-wang/)<sup>1</sup>
 
