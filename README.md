@@ -19,10 +19,14 @@ University of Notre Dame<sup>1</sup>
 ---
 
 ## Installation
-> The code is developed by Python. After cloning the repository, follow the below steps for installation,
+The code is developed by Python. After cloning the repository, follow the below steps for installation,
 1. Create and activate the conda environment
 ```python
 conda create --name surfpatch python=3.10
 conda activate surfpatch
 ```
+2. Install dependencies
+```python
+pip install -r requirements.txt
+``` 
 
