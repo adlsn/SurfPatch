@@ -5,10 +5,10 @@ SurfPatch: Enabling Patch Matching for Exploratory Stream Surface Visualization
 
 University of Notre Dame<sup>1</sup>
 
-This is the official repository for the paper `SurfPatch: Enabling Patch Matching for Exploratory Stream Surface Visualization`.
+This is the official repository for the paper `SurfPatch: Enabling Patch Matching for Exploratory Stream Surface Visualization.`
 
 ## Introduction
-> Particles in a 3D flow field form the stream surface. Tornado, Bernard, and two swirls are typical flow data. In this project, we want to use multiple `surfpatches` to characterize stream surface features, cluster these patches by their inherent patterns, and assist domain experts in attaining and analyzing similar surfaces.
+> SurfPatch is a framework for exploratory stream surface visualization, addressing the challenges of placement, speed, perception, and evaluation in surface-based flow visualization. The method translates surface placement into a selection problem, leveraging a hierarchical, bottom-up approach with vertex-level classification, patch-level matching, and surface-level clustering for fine-grained multiscale analysis. SurfPatch supports both steady and unsteady flows and isosurfaces from scalar fields, providing an intuitive interface for users to explore and analyze stream surfaces.
 ---
 ## Contents
 > 
