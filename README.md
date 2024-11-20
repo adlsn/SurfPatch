@@ -40,8 +40,8 @@ The dataset folders for surfaces should be organized as follows:
 ├── hks_feature/
 ├── patch/
 │   └── level1/
-├── project2d/
-│   └── level1/
+└── project2d/
+    └── level1/
 ```
 
 
