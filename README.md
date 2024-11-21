@@ -2,7 +2,7 @@
 
 [Delin An](https://github.com/adlsn) and [Chaoli Wang](https://sites.nd.edu/chaoli-wang/)
 
-University of Notre Dame<sup>1</sup>
+University of Notre Dame
 
 <div align='center'>
 <img src='video.gif'>
