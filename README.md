@@ -47,7 +47,7 @@ The dataset folders for surfaces should be organized as follows:
 └── project2d/
     └── level1/
 ```
-We provide a subset of the [Two Swirls dataset](https://www.kaggle.com/datasets/delinan/two-swirl) as an example for testing our method.
+We provide a subset of the [Two Swirls dataset](https://drive.google.com/drive/folders/1-PPu12Ls-kHmZtfqaNW3rfJ199-R4bpg?usp=drive_link) as an example for testing our method.
 
 ## Contact
 Should you have any questions, please contact me at dan3@nd.edu.
